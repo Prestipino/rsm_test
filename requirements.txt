@@ -1,6 +1,6 @@
 voila>=0.1.8
 numpy
-matplotlib-base
+matplotlib
 ipywidgets
 jupyterlab>=3.1
 voila>=0.2.11
